@@ -1,0 +1,26 @@
+/*selctro class */
+.rojo{
+     background-color: red;
+     margin-left: 3%;
+     color: dodgerblue;
+     /*pisa el color azul de div */
+}
+
+/*selector id */
+#dolorestexto{
+     font-style: italic;
+}
+
+#titulo2{
+     font-style: normal;
+}
+
+/*selctor elemento*/
+div{
+     color: blue;
+}
+
+/* selector por herencia */
+div p {
+   font-weight: bold;
+}
